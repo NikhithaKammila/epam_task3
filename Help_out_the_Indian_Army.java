@@ -2,7 +2,7 @@
 
     import java.util.*;
      
-    public class TestClass{
+    public class Help_out_the_Indian_Army{
     		public static void main(String[] args)
     	{
     		
